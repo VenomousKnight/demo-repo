@@ -1,3 +1,3 @@
-#New Repository
+# New Repository
 
 Hello there 😄
